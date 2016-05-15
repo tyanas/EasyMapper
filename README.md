@@ -12,6 +12,8 @@ Local install
 
 ::
 
+    sudo npm install gulp -g
+    npm install gulp-useref
     npm install
     gulp watch
 
