@@ -1,0 +1,37 @@
+{
+  "name": "EasyMapper",
+  "version": "1.0.0",
+  "description": "EasyMapper ========== http://nakarte.tk",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wladich/EasyMapper.git"
+  },
+  "keywords": [
+    "leaflet"
+  ],
+  "author": "Sergej Orlov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wladich/EasyMapper/issues"
+  },
+  "homepage": "https://github.com/wladich/EasyMapper",
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-copy": "0.0.2",
+    "gulp-inject": "^4.0.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "jshint": "^2.9.2"
+  },
+  "dependencies": {
+    "knockout": "^3.4.0",
+    "leaflet": "^0.7.7"
+  }
+}
